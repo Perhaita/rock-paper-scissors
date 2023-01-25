@@ -1,5 +1,5 @@
-const playerSelection = playerChoice();
-const computerSelection = computerChoice();
+const playerSelection = playerChoice().toLowerCase();
+const computerSelection = computerChoice().toLowerCase();
 console.log(computerSelection);
 console.log(playerSelection);
  
