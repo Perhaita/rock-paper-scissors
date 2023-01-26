@@ -1,0 +1,27 @@
+body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+    margin-top: 50px;
+}
+
+p {
+    color: #666;
+    margin-bottom: 50px;
+}
+
+.result {
+    color: #333;
+    font-size: 1.5em;
+    margin-top: 20px;
+}
+
+.score {
+    color: #666;
+    font-size: 1.2em;
+    margin-top: 10px;
+}
